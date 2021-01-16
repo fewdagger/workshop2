@@ -1,7 +1,7 @@
-def myFunc():
+def myfunc():
     global x
     x = "fantastic"
 
 
-myFunc()
+myfunc()
 print("Python is " + x)
