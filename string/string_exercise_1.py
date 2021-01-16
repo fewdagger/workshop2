@@ -4,7 +4,7 @@ print(len(string))
 
 # จงเขียนคำสั่งเพื่อแสดงอักษรแรกของข้อความ "Python is one of the fastest-growing programming languages"
 string = "Python is one of the fastest-growing programming languages"
-print(string[0:7])
+print(string[0])
 
 # จงเขียนคำสั่งเพื่อแสดง "fastest" ของข้อความ "Python is one of the fastest-growing programming languages"
 string = "Python is one of the fastest-growing programming languages"
